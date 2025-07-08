@@ -18,7 +18,7 @@ app.setSerializerCompiler(serializerCompiler);
 app.setValidatorCompiler(validatorCompiler);
 
 app.get('/health', () => {
-  return 'sla';
+  return 'HEALTH';
 });
 
 app.register(getRoomsRoute);
