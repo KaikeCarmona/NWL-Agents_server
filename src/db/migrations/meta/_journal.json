@@ -8,6 +8,13 @@
       "when": 1751994198525,
       "tag": "0000_tough_mauler",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752243700205,
+      "tag": "0001_dear_tattoo",
+      "breakpoints": true
     }
   ]
 }
